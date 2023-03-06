@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Cardoso
+### Olá! Eu sou o Pedro Cardoso, estudante e futuro programador!
 
 🔭 Atualmente não estou empregado.
 <br>
