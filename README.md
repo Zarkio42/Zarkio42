@@ -1,6 +1,6 @@
-### Olá! Eu sou o Pedro Cardoso, estudante e futuro programador!
+### Olá! Eu sou o Pedro Cardoso, estudante de Programação e Análise de Sistemas.
 
-🔭 Atualmente não estou empregado.
+🔭 Atualmente estou procurando oportunidades na área.
 <br>
 🌱 Estou aprendendo C#, HTML, CSS e Java Script!
 <br>
