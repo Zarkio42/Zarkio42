@@ -6,12 +6,8 @@
 <br>
 📫 Entrar em contato: pedro.contato24@gmail.com
 
-<div>
-  
-  <a href= "https://github.com/Zarkio42">
-    <img height="180em" scr= "https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight&include_all_commits=true&count-private=true"/>
-    <img height="180em" scr= "https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&langs-count=16&theme=tokyonight"/>
-  </div>
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=algolia)](https://github.com/oddaiki/github-readme-stats)
 
   <div dir="auto"><br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
