@@ -1,6 +1,6 @@
 ### Olá! Me chamo Pedro Cardoso, estudante de Programação e Análise de Sistemas.
 
-🤯Extremamente curioso por tudo que envolve tecnologia!
+🤯 Extremamente curioso por tudo que envolve tecnologia!
 <br>
 🔭 Atualmente estou procurando por oportunidades na área.
 <br>
