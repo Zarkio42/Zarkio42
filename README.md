@@ -1,8 +1,10 @@
-### Olá! Eu sou o Pedro Cardoso, estudante de Programação e Análise de Sistemas.
+### Olá! Me chamo Pedro Cardoso, estudante de Programação e Análise de Sistemas.
 
-🔭 Atualmente estou procurando oportunidades na área.
+#🤯Extremamente curioso por tudo que envolve tecnologia!
 <br>
-🌱 Estou aprendendo C#, HTML, CSS e Java Script!
+🔭 Atualmente estou procurando por oportunidades na área.
+<br>
+🌱 Por hora estou aprendendo C#, HTML, CSS e Java Script!
 <br>
 📫 Entrar em contato: pedro.contato24@gmail.com
 
