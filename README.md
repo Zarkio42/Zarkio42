@@ -6,7 +6,7 @@
 <br>
 🌱 Essas são as principais tecnologias que estudo: C#, HTML, CSS, Java Script, MySql, Node.js e React!
 <br>
-📫 Entre em contato: (mailto: pedro.contato24@gmail.com)
+📫 Entre em contato: <mailto: pedro.contato24@gmail.com>
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight)](https://github.com/oddaiki/github-readme-stats)
