@@ -4,7 +4,7 @@
 <br>
 🔭 Atualmente estou procurando por oportunidades na área.
 <br>
-🌱 Por hora estou aprendendo C#, HTML, CSS e Java Script!
+🌱 Essas são as principais tecnologias que estudo: C#, HTML, CSS, Java Script, MySql, Node.js e React!
 <br>
 📫 Entrar em contato: pedro.contato24@gmail.com
 
