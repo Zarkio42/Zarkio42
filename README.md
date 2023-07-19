@@ -1,10 +1,10 @@
-### Olá! Me chamo Pedro Cardoso, estudante de Programação e Análise de Sistemas.
+### Pedro Cardoso - Dev Full Stack
 
 🤯 Extremamente curioso por tudo que envolve tecnologia!
 <br>
 🔭 Atualmente estou procurando por oportunidades na área.
 <br>
-🌱 Essas são as principais tecnologias que estudo: C#, HTML, CSS, Java Script, MySql, Node.js e React!
+🌱 Essas são as principais tecnologias que estudo: C#, HTML, CSS, Java Script, MySql, Node.js, React e Python.
 <br>
 📫 Entre em contato: pedro.contato24@gmail.com
 
