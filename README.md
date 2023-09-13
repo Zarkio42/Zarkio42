@@ -2,7 +2,7 @@
 
 🤯 Extremamente curioso por tudo que envolve tecnologia!
 <br>
-🔭 Atualmente estou procurando por oportunidades na área.
+🔭 Vim da Educação Física e atualmente estou procurando por oportunidades na área de tecnologia.
 <br>
 🌱 Essas são as principais tecnologias que estudo: C#, HTML, CSS, Java Script, MySql, Node.js, React e Python.
 <br>
@@ -14,8 +14,6 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253)
 [![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.contato24@gmail.com)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_crzo)
-
-![Snake animation](https://github.com/zarkio42/zarkio42/blob/output/github-contribution-grid-snake.svg)
 
   <div dir="auto"><br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
