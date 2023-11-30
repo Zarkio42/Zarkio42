@@ -8,7 +8,7 @@
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight)](https://github.com/oddaiki/github-readme-stats)
 
-### 📫 You can contact me at:
+### 📫 Entre em contato comigo (You can contact me at):
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253)
 [![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.contato24@gmail.com)
