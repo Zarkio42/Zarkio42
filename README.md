@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=false&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!)](https://git.io/typing-svg)
+
+
 
 🤯 Extremamente curioso por tudo que envolve tecnologia!
 <br>
