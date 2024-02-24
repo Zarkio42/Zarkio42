@@ -1,8 +1,9 @@
 ### Pedro Cardoso - Dev Full Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 🤯 Extremamente curioso por tudo que envolve tecnologia!
 <br>
-🔭 Procurando por oportunidades na área de tecnologia.
+🔭 Em busca de oportunidades na área de desenvolvimento.
 <br> 
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight)
