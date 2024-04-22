@@ -7,6 +7,10 @@
 🔭 Em busca de oportunidades na área de desenvolvimento.
 <br> 
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="80%" height="auto"/>
+
+
+
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight)](https://github.com/oddaiki/github-readme-stats)
 
