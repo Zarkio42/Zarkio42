@@ -1,26 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=false&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!)](https://git.io/typing-svg)
-
-
-
-🤯 Extremamente curioso por tudo que envolve tecnologia!
+<div align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!;"/>
+</div>
 <br>
-🔭 Em busca de oportunidades na área de desenvolvimento.
+<p align="center">🤯 Extremamente curioso por tudo que envolve tecnologia!</p>
+<p align="center">🔭 Em busca de oportunidades na área de desenvolvimento.</p>
 <br> 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="80%" height="auto"/>
+</p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="80%" height="auto"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight"/>
+</div>
 
+<h2 align="center">📫 Entre em contato comigo (You can contact me at):</h2>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pedro.contato24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pedro_crzo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight)](https://github.com/oddaiki/github-readme-stats)
-
-### 📫 Entre em contato comigo (You can contact me at):
-
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253)
-[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.contato24@gmail.com)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_crzo)
-
-## Skills
+<h2 align="center">Skills</h2>
 
 <p align="center" style="display: flex;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
