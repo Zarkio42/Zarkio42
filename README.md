@@ -3,7 +3,7 @@
 </div>
 <br>
 <p align="center">🤯 Extremamente curioso por tudo que envolve tecnologia!</p>
-<p align="center">🔭 Em busca de oportunidades na área de desenvolvimento.</p>
+<p align="center">🔭 Em busca de oportunidades na área de desenvolvimento Front-End.</p>
 <br> 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="80%" height="auto"/>
