@@ -2,8 +2,8 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!;"/>
 </div>
 <br>
-<p align="center">🤯 Desenvolvedor Front-End com foco em Angular e tudo que envolve Javascript!</p>
-<p align="center">🔭 Em busca de oportunidades...</p>
+<p align="center">🤯 Front-End Developer</p>
+<p align="center">🔭 Actively seeking new challenges</p>
 <br> 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="80%" height="auto"/>
@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight"/>
 </div>
 
-<h2 align="center">📫 Entre em contato comigo (You can contact me at):</h2>
+<h2 align="center">📫 You can contact me at:</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
