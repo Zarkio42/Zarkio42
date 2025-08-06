@@ -2,7 +2,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!;"/>
 </div>
 <br>
-<p align="center">🤯 Front-End Developer</p>
+<p align="center">🤯 Developer</p>
 <p align="center">🔭 Actively seeking new challenges</p>
 <br> 
 <p align="center">
