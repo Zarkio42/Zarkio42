@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+21+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!;"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso;Tenho+22+anos;Sou+de+Atibaia+-+SP;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!;"/>
 </div>
 <br>
 <p align="center">🤯 Developer</p>
