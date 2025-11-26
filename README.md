@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro+Cardoso+😊;Full+Stack+Developer;Welcome+to+my+GitHub!" 
+    src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro+Cardoso+😊;📍+S%C3%A3o+Paulo,+Brazil;Full+Stack+Developer;Welcome+to+my+GitHub!" 
     alt="Typing animation saying: Hi, I'm Pedro Cardoso. Full Stack Developer. Welcome to my GitHub!"
   />
 </div>
