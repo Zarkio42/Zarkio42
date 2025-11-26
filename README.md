@@ -4,29 +4,29 @@
     alt="Typing animation saying: Hi, I'm Pedro Cardoso. Full Stack Developer. Welcome to my GitHub!"
   />
 </div>
+
 <br>
+
 <p align="center">
   💻 Full Stack Developer<br/>
   🔭 Actively seeking new challenges<br/>
   🚀 Passionate about building clean, scalable web applications
 </p>
+
 <br> 
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="50%" height="auto"/>
 </p>
----
-### 👋 About me
+
+
+<h2 align="center">About Me</h2>
 
 - 🎓 Developer focused on **web applications** and **modern JavaScript ecosystems**
 - ⚙️ From frontend to backend, I enjoy creating **end-to-end solutions**
 - 🧠 Always learning and improving my skills in **clean code**, **good practices** and **software architecture**
 - 🌍 Open to remote opportunities and collaborations
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight"/>
-</div>
----
 <h2 align="center">Skills</h2>
 <p align="center" style="display: flex;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
@@ -40,7 +40,12 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
----
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zarkio42&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarkio42&layout=compact&theme=tokyonight"/>
+</div>
+
 <h2 align="center">📫 You can contact me at:</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
