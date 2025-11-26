@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso+=);Seja+Bem-vindo!;Hi,+my+name+is+Pedro+Cardoso+=); U+are+welcome!"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Cardoso+=);Seja+Bem-vindo!;Hi,+my+name+is+Pedro+Cardoso+=);U+are+welcome!"/>
 </div>
 <br>
 <p align="center">🤯 Full Stack Developer</p>
