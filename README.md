@@ -6,7 +6,7 @@
 <p align="center">🔭 Actively seeking new challenges</p>
 <br> 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="80%" height="auto"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhsNWtwdmJicXVuOTFibHdtbm1obmswcXJsejg0ZnpuMnJkZDd5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/140tua5jt51nIk/giphy.gif" width="50%" height="auto"/>
 </p>
 
 <div align="center">
