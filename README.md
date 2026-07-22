@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  💻 💻 Software Developer building Cloud Solutions<br/>
+  💻 Software Developer building Cloud Solutions<br/>
   🚀 Seeking opportunities as a Cloud Engineer / Cloud Infrastructure Analyst / Software Developer
 </p>
 
