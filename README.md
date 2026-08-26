@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pedro+Cardoso;Cloud+Engineer+in+Progress;Software+Developer;AWS+%7C+Docker+%7C+Linux+%7C+Terraform;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=3500&pause=1000&color=00C4FF&left=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pedro+Cardoso;Cloud+Engineer+in+Progress;Software+Developer;AWS+%7C+Docker+%7C+Linux+%7C+Terraform;Always+Learning+Something+New" />
 
 <img
   src="./assets/computer-illustration.png"
