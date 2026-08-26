@@ -1,22 +1,52 @@
-<div align="center">
+<div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pedro+Cardoso;Cloud+Engineer+in+Progress;Software+Developer;AWS+%7C+Docker+%7C+Linux+%7C+Terraform;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pedro+Cardoso;Cloud+Engineer+in+Progress;Software+Developer;AWS+%7C+Docker+%7C+Linux+%7C+Terraform;Always+Learning+Something+New" />
 
-</div>
+<img
+  src="./assets/computer-illustration.png"
+  alt="ilustração de um computador"
+  width="300"
+  align="right"
+/>
 
-<br>
-
-<p align="center">
+<p align="left"> 
   💻 Software Developer building Cloud Solutions<br/>
   🚀 Seeking opportunities as a Cloud Engineer / Cloud Infrastructure Analyst / Software Developer
 </p>
 
-<br> 
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zarkio42&theme=highcontrast&hide_border=true&locale=pt_BR&short_numbers=true" alt="GitHub Streak" /></a>
+<p align="left">
+  📫 You can contact me at:
 </p>
 
+<p align="left">
+  <a href="mailto:pedro.contato24@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/pedro-crzo/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5511974503253" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/pedro_crzo" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+
+</div>
+
+<br clear="both"/>
+
+<br>
+
+<div align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Zarkio42&theme=highcontrast&hide_border=true&locale=pt_BR&short_numbers=true"
+      alt="GitHub Streak"
+    />
+  </a>
+
+</div>
+
+<br>
 
 <h2 align="center">About Me</h2>
 
@@ -25,6 +55,8 @@
 - ⚙️ Interested in **Infrastructure, Automation, DevOps, Scalable Systems, Software Development**
 - 🧠 Continuously learning **Linux, Networking, Terraform, Kubernetes and AWS**
 - 🌍 Open to remote opportunities
+
+<br>
 
 <h2 align="center">Skills</h2>
 
@@ -72,12 +104,10 @@
   </tr>
 </table>
 
-
-<h2 align="center">📫 You can contact me at:</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-luis-feitosa-cardoso-761367253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pedro.contato24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/pedro_crzo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarkio42&theme=tokyo-night"/>
+
+<div align="center">
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarkio42&theme=tokyo-night" alt="GitHub Activity Graph"/> -->
+ 
+</div>
