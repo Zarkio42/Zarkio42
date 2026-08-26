@@ -12,6 +12,7 @@
 <p align="left"> 
   💻 Software Developer building Cloud Solutions<br/>
   🚀 Seeking opportunities as a Cloud Engineer / Cloud Infrastructure Analyst / Software Developer
+  🌍 Open to remote opportunities
 </p>
 
 <p align="left">
@@ -55,7 +56,6 @@
 - ☁️ Building projects with **AWS, Firebase, Docker and modern cloud services**
 - ⚙️ Interested in **Infrastructure, Automation, DevOps, Scalable Systems, Software Development**
 - 🧠 Continuously learning **Linux, Networking, Terraform, Kubernetes and AWS**
-- 🌍 Open to remote opportunities
 
 <br>
 
